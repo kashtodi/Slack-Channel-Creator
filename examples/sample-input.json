@@ -1,0 +1,5 @@
+[
+	{"channel_name":"test-channel1","members":["Member1 Name1", "Member2 Name2"]},
+	{"channel_name":"test-channel2","members":["Member1 Name1", "Member2 Name3"]},
+	{"channel_name":"test-channel3","members":["Member2 Name2", "Member3 Name3"]}
+]
